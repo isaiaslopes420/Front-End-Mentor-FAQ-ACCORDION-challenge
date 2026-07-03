@@ -41,7 +41,7 @@ Mobile design
 
 - Repository URL: [Front-End-Mentor-FAQ-ACCORDION-challenge](https://github.com/isaiaslopes420/Front-End-Mentor-FAQ-ACCORDION-challenge.git)
 
-- Live Site URL: [FAQ Accordion - FrontEnd Mentor Challenge](https://your-live-site-url.com)
+- Live Site URL: [FAQ Accordion - FrontEnd Mentor Challenge]([https://your-live-site-url.com](https://isaiaslopes420.github.io/Front-End-Mentor-FAQ-ACCORDION-challenge/))
 
 ## My process
 
